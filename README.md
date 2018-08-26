@@ -6,4 +6,4 @@ A simple port scanner
 Kali Linux
 
 ### Why does this exist?
-I got bored
+I was bored, that's why.
